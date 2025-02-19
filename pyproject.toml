@@ -1,5 +1,5 @@
 [project]
-name = "NLP Class"
+name = "nlp-class"
 version = "0.1.0"
 readme = "README.md"
 dependencies = [
@@ -10,4 +10,3 @@ dependencies = [
     "nltk",
     "scikit-learn",
 ]
-
