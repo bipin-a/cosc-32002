@@ -1,0 +1,13 @@
+[project]
+name = "NLP Class"
+version = "0.1.0"
+readme = "README.md"
+dependencies = [
+    "numpy",
+    "pandas",
+    "jupyterlab",
+    "seaborn",
+    "nltk",
+    "scikit-learn",
+]
+
