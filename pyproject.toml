@@ -9,4 +9,5 @@ dependencies = [
     "seaborn",
     "nltk",
     "scikit-learn",
+    "gensim",
 ]
